@@ -6,7 +6,6 @@
 - 🤔 Estou procurando ajuda com otimização de algoritmos e boas práticas de código.  
 - 💬 Pergunte-me sobre JavaScript, desenvolvimento de APIs.  
 - 📫 Como entrar em contato comigo: vitoremanoel2906@gamil.com / LinkedIn: linkedin.com/in/vitor-emanoel-a027a7380/  
-- 😄 Pronomes: Ele/Dele  
 - ⚡ Curiosidade: Amo desafios de lógica e programação competitiva.
 
 ## Estou aprendendo
