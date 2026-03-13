@@ -9,8 +9,8 @@
 - ⚡ Curiosidade: Amo desafios de lógica e programação competitiva.
 
 ## Estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
+<img src="https://nestjs.com/img/logo-small.svg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1000px; height: 536px; margin: 0px; width: 555px;" alt="GitHub - nestjs/nest: A progressive Node.js framework for building  efficient, scalable, and enterprise-grade server-side applications with  TypeScript/JavaScript 🚀 · GitHub" jsname="kn3ccd">
 
 
 ## Contatos:
