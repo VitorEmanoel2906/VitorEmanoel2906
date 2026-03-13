@@ -1,7 +1,7 @@
 # Olá, me chamo VitorEmanoel ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou me dedicando ao aprendizado de programação, com foco em lógica, JavaScript, back-end e Java.  
+- 🔭 Atualmente estou me dedicando ao aprendizado de programação, com foco em lógica, JavaScript, back-end.  
 - 👯 Estou procurando colaborar em projetos open-source de segurança e automação, além de criação de apps e sites.  
 - 🤔 Estou procurando ajuda com otimização de algoritmos e boas práticas de código.  
 - 💬 Pergunte-me sobre JavaScript, desenvolvimento de APIs.  
